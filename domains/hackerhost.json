@@ -1,0 +1,16 @@
+{                                           
+    "description": "Official HACKERHOST PANEL",
+    "domain": "creepers.sbs", 
+    "subdomain": "gp.hackerhost",
+
+    "owner": {
+        "github user": "https://github.com/iamdragonboy"
+        "email": "hackerhost@gmail.com"
+    },
+                                                        
+    "record": {
+        
+        "CNAME": "gp.hackerhost.creepers.sbs"
+        
+ "proxy": false
+}
